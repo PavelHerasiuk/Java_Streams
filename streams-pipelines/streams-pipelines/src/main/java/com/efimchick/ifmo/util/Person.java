@@ -1,6 +1,5 @@
 package com.efimchick.ifmo.util;
 
-
 import java.util.Objects;
 import java.util.StringJoiner;
 
